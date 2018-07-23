@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>FlickrNet</id>
+    <version>3.22.0</version>
+    <title>FlickrNet API Library</title>
+    <authors>Sam Judson</authors>
+    <owners>Sam Judson</owners>
+    <licenseUrl>https://github.com/samjudson/flickr-net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/samjudson/flickr-net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Flickr.Net API Library is a .Net Library for accessing the Flickr API.</description>
+    <summary />
+    <language>en-US</language>
+    <tags>flickr photo photography social</tags>
+  </metadata>
+</package>
